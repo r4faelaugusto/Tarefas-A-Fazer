@@ -1,6 +1,6 @@
 {
-  "name": "Tarefasafazerapp",
-  "tagline": "Simples APP desenvolvido em Meteor e React",
+  "name": "Tarefas A Fazer",
+  "tagline": "Organize rapidamente a sua e a lista também de seus subordinados. [Todo-List]",
   "body": "### Bem vindo\r\nSeja realmente bem vindo a página do Tarefas a fazer App.\r\nEsta é uma pagina gerada e disponibilizada pelo github.com .\r\n\r\n### Funcional\r\nCom esse App é possível organizar uma lista de tarefas a serem realizadas, o usuário admin pode adicionar tarefas a outros usuários cadastrado no APP.\r\n\r\n### Authors and Contributors\r\nGitHub: @r4faelaugusto,\r\nEmail: r4faelaugusto@gmail.com\r\nFacebook: [orafaelaugusto](http://fb.com/orafaelaugusto).",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
